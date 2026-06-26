@@ -1,0 +1,33 @@
+Exercise_ID,Exercise,Type,Order,Muscle group,Week,Supersets_With,Exercise nr,Calestenics,Wrist stress level,Day,Is_Active
+29,Explosive pull ups,Plyometric,First,"Back, Core",All,,1,Yes,2,2,1
+4,Plyo Push-Ups,Plyometric,First,Chest,All,22,1,Yes,2,3,1
+3,Australian row,Strenght,Middle,Back,1,,,Yes,2,2,0
+33,One leg box jump,"Plyometric, Balance",First,Legs,1,4,1,Yes,0,3,1
+1,Weighted pull ups,Strenght,Middle,"Back, Core",All,,2,Yes,1,2,1
+7,Shoulder press (sitting or standing),Strenght,Middle,"Shoulder, Core, Arms",All,31,4,Yes,3,2,1
+6,Triceps bar extension,Strenght,Last,"Arms, Shoulder",All,12,3,Yes,2,2,1
+34,One leg lateral hop,"Plyometric, Balance",First,Legs,2,4,1,Yes,0,3,1
+12,Gorilla rows,"Strenght, Balance",Middle,"Back, Core",All,6,3,No,1,2,1
+2,Weighted dips,Strenght,Middle,Chest,All,,2,Yes,3,3,1
+31,Biceps curl,Strenght,Middle,Arms,All,7,4,Yes,1,2,1
+13,Bulgarian squads,Strenght,Middle,"Legs, Core",1,,4,Yes,1,1,1
+14,Squads,Strenght,Middle,Legs,1,,2,Yes,1,1,1
+15,Machine leg press,Strenght,Middle,Legs,2,,2,No,0,1,1
+16,Quadriceps extension,Strenght,Last,Legs,All,18,5,No,0,1,1
+17,Romanina deadlift,Strenght,Middle,Legs,All,,3,Yes,1,1,1
+18,Calf raises,Strenght,Last,Legs,All,16,5,Yes,0,1,1
+19,One leg sit-up,"Strenght, Balance",Middle,Legs,2,,,Yes,0,,0
+20,Band/dumbell jumps,Plyometric,First,Legs,1,27,1,Yes,0,1,1
+21,Alternating front lunges,"Strenght, Heavy carries",Middle,"Legs, Core",2,,4,Yes,1,1,1
+23,Lateral raises,Strenght,Last,Shoulder,All,22,4,Yes,1,3,1
+10,Chest flies - machine,Strenght,Middle,Chest,All,,3,No,1,3,1
+25,Barbell row,Strenght,Middle,"Back, Core",2,,,No,1,2,0
+26,Duck Walk Kettlebell Carry,"Heavy carries, Strenght, Balance",,"Shoulder, Arms, Legs",,,,,,1,0
+27,Ankle BOSU ball ,Balance,First,Legs,All,"30, 20",1,No,0,1,1
+5,Suitcase carriers,Heavy carries,Last,"Core, Shoulder",2,,6,No,1,1,1
+30,Bulgarian squad jumps,Plyometric,First,"Legs, Core",2,27,1,Yes,0,1,1
+22,Back extensions,Strenght,Middle,Back,All,23,4,Yes,0,3,1
+9,Heavy Carry + Power Shrugs,"Strenght, Heavy carries, Plyometric",Last,Shoulder,All,32,5,Yes,1,2,1
+32,L sit chin ups,Strenght,Last,"Back, Arms, Core",All,9,5,Yes,1,2,1
+8,Hammer Biceps Curl,Strenght,Middle,Arms,All,35,5,Yes,1,3,1
+35,Overhead carrier,"Heavy carries, Strenght",Last,"Shoulder, Core",All,8,5,No,2,3,1
