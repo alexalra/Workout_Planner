@@ -45,9 +45,10 @@ The app features built-in automated test scripts to scan the spreadsheet data an
 
 1. **Install dependencies:**
    ```bash
-   python3 -m pip install streamlit pandas´´´
+   python3 -m pip install streamlit pandas
 
 2. **Launch the app:**
-   ```streamlit run Planner.py´´´
+   ```bash
+   streamlit run Planner.py
 
 3. **To see it in your phone:** Connect directly with Streamlit Community Cloud platform via GitHub.
