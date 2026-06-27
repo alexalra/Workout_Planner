@@ -2,6 +2,8 @@
 
 A lightweight, automated Streamlit dashboard to manage and dynamically display my biweekly workout routines based on structured planning data.
 
+**Live Mobile App:** [Open Workout Planner](https://workoutplanner-xcefbgpg5uqbx3wrjmd73d.streamlit.app/)
+
 ---
 
 ## Project Overview
